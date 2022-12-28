@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!--
 <h5 align="center">Languages and Tools:</h5>
 <p align="center">
   <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
@@ -228,6 +229,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="22" width="22"/>
   </a>
 </p>
+-->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackiewmacharia&show_icons=true&locale=en" alt="jackiewmacharia" /></p> -->
 
