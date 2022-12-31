@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi 👋, I'm Jackie</h1>
 <h6 align="center">Software engineer probably hunched over a laptop in a hole in the wall coffee shop.</h6>
 
-<h5 align="center">Connect with me:</h5>
+<!-- <h5 align="center">Connect with me:</h5> -->
 <p align="center">
   <a href="https://twitter.com/jackiewmacharia" target="blank">
     <img src="https://img.shields.io/twitter/follow/jackiewmacharia?logo=twitter&style=for-the-badge" alt="jackiewmacharia" />
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109378096930642306?domain=https%3A%2F%2Fhachyderm.io&logo=mastodon&style=for-the-badge">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/jackiewmacharia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackiewmacharia" height="15" width="20" />
   </a>
@@ -39,20 +39,22 @@ Here are some ideas to get you started:
   <a href="https://hashnode.com/@jackiewmacharia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jackiewmacharia" height="15" width="20" />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="left">
 <img src="https://komarev.com/ghpvc/?username=jackiewmacharia&label=Profile%20views&color=0e75b6&style=flat" alt="jackiewmacharia" /> </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackiewmacharia&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jackiewmacharia" />
-</p>
+</p> -->
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=jackiewmacharia&no-frame=true&no-bg=true&theme=gitdimmed&row=1" alt="jackiewmacharia" />
   </a>
 </p>
+-->
 
 <!--
 <h5 align="center">Languages and Tools:</h5>
