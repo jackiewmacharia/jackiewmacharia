@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h6 align="center">Software engineer probably hunched over a laptop in a hole in the wall coffee shop.</h6>
 
 <!-- <h5 align="center">Connect with me:</h5> -->
-<p align="center">
+<!--<p align="center">
   <a href="https://twitter.com/jackiewmacharia" target="blank">
     <img src="https://img.shields.io/twitter/follow/jackiewmacharia?logo=twitter&style=for-the-badge" alt="jackiewmacharia" />
   </a>
   <a href="https://hachyderm.io/@jackiewmacharia" target="blank">
   <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109378096930642306?domain=https%3A%2F%2Fhachyderm.io&logo=mastodon&style=for-the-badge">
   </a>
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://twitter.com/jackiewmacharia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackiewmacharia" height="15" width="20" />
